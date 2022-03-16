@@ -1,0 +1,8 @@
+Aula 18 - Organização básica do código JS
+
+JavaScript é organizado em linhas de código e em blocos de código, que são um conjunto de várias sentenças do código
+
+Sentenças de códgio - são um conjunto de códigos que compões uma determinada ação que pode ou não terminar com um indicador. Podem ocupar indeterminadas linhas desde que sigam a sintaxe.
+
+Blocos de código - são agrupamenteos de sentenças dentro de um indicador, no JS são {}
+
